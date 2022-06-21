@@ -25,6 +25,11 @@ const treeData = [
             label: "Document-0-2.doc",
             icon: "fa fa-file",
             title: "Documents Folder",
+            children:[ {
+              key: "0-0",
+              label: "Document 1-1",
+              icon: "fa fa-folder",
+              title: "Documents Folder",}]
           },
           {
             key: "0-1-3",
